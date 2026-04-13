@@ -2,6 +2,6 @@
     "versionCode": 12,
     "versionName": "1.1.2",
     "downloadUrl": "https://your-server.com/app-release.apk",
-    "updateLog": "• 修复已知问题\n• 优化应用性能\n• 新增批量操作功能"，
+    "updateLog": "• 修复已知问题\n• 优化应用性能\n• 新增批量操作功能",
     "forceUpdate":false
 }
