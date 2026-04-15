@@ -1,3 +1,9 @@
 {
-  "API","API"
+    "thanksApiUrl":"https://raw.githubusercontent.com/xinchen95211/luluClone/refs/heads/main/thanks.json",
+    "updateApiUrl":"https://raw.githubusercontent.com/xinchen95211/luluClone/refs/heads/main/update.json",
+    "qrCodeApiUrl":"https://raw.githubusercontent.com/xinchen95211/luluClone/refs/heads/main/qrcode.json",
+    "announcementsApiUrl":"https://raw.githubusercontent.com/xinchen95211/luluClone/refs/heads/main/announcements.json",
+    "qqGroupCode":"1090608574",
+    "qqGroupUrl":"https://qm.qq.com/q/HPWzDs5lC0",
+    "whitelistPresetsApiUrl":"https://raw.githubusercontent.com/xinchen95211/luluClone/refs/heads/main/whitelist_remote"
 }
