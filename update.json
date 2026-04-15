@@ -1,7 +1,7 @@
 {
-    "versionCode": 12,
-    "versionName": "1.1.2",
-    "downloadUrl": "https://your-server.com/app-release.apk",
-    "updateLog": "• 修复已知问题\n• 优化应用性能\n• 新增批量操作功能",
-    "forceUpdate":false
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "downloadUrl": "https://heiqunhui.dynv6.net:9997/1.0.13.apk",
+  "updateLog": "• 优化应用性能\n• 修复安卓12+无法正确加载用户空间\n• 加入初始加载动画\n• 修复了一些bug",
+  "forceUpdate":false
 }

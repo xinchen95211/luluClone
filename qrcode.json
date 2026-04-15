@@ -1,0 +1,6 @@
+{
+  "wechat": "https://heiqunhui.dynv6.net:9997/wechat_qr.jpg",
+  "alipay": "https://heiqunhui.dynv6.net:9997/alipay_qr.jpg",
+  "wechatHint": "请使用微信扫描二维码1",
+  "alipayHint": "请使用支付宝扫描二维码1"
+}
